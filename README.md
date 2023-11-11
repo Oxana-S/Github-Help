@@ -1,4 +1,4 @@
-# Help-Github
+# Github-Help
 Справка по раоте с Github   
 
 Как добавить README.md на главный репозиторий на моем Github: https://habr.com/ru/articles/649363/
